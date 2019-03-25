@@ -1,4 +1,4 @@
-# ZPO-lab1
+# ZPO-lab2
 
 Autorzy: Hubert Gabryszewski, Łukasz Szadowski
 
